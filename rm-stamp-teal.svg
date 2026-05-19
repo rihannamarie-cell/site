@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img">
+  <title>RM — Rihanna Marie (teal version)</title>
+  <desc>Circular outline stamp logo on teal background, for merch use</desc>
+
+  <rect width="512" height="512" fill="#1B4D4A"/>
+
+  <defs>
+    <path id="arcTopT" d="M256,256 m-210,0 a210,210 0 1,1 420,0"/>
+    <path id="arcBotT" d="M256,256 m-210,0 a210,210 0 0,0 420,0"/>
+  </defs>
+
+  <!-- Outer ring -->
+  <circle cx="256" cy="256" r="238" fill="none" stroke="#F2EDE4" stroke-width="5"/>
+  <!-- Inner ring -->
+  <circle cx="256" cy="256" r="216" fill="none" stroke="#F2EDE4" stroke-width="1.5"/>
+
+  <!-- Arc text top -->
+  <text font-family="'DM Mono', 'Courier New', monospace" font-size="27" fill="#F2EDE4" letter-spacing="13">
+    <textPath href="#arcTopT" startOffset="5%">RIHANNA · MARIE · CANNAWIZ ·</textPath>
+  </text>
+
+  <!-- Arc text bottom -->
+  <text font-family="'DM Mono', 'Courier New', monospace" font-size="27" fill="rgba(242,237,228,0.6)" letter-spacing="13">
+    <textPath href="#arcBotT" startOffset="16%">IN THE CANNABIZ ·</textPath>
+  </text>
+
+  <!-- Outline RM -->
+  <text x="256" y="236"
+    font-family="'Barlow Condensed', 'Arial Narrow', sans-serif"
+    font-size="162" font-weight="900"
+    text-anchor="middle"
+    fill="none"
+    stroke="#F2EDE4"
+    stroke-width="4.5">RM</text>
+
+  <!-- Depth layer -->
+  <text x="258" y="238"
+    font-family="'Barlow Condensed', 'Arial Narrow', sans-serif"
+    font-size="162" font-weight="900"
+    text-anchor="middle"
+    fill="#F2EDE4"
+    opacity="0.08">RM</text>
+
+  <!-- Cream rule -->
+  <rect x="100" y="248" width="312" height="4" fill="rgba(242,237,228,0.5)"/>
+
+  <!-- CALIFORNIA -->
+  <text x="256" y="304"
+    font-family="'DM Mono', 'Courier New', monospace"
+    font-size="26" letter-spacing="12"
+    text-anchor="middle"
+    fill="#F2EDE4">CALIFORNIA</text>
+
+  <!-- Side marks -->
+  <line x1="10" y1="256" x2="28" y2="256" stroke="rgba(242,237,228,0.5)" stroke-width="4"/>
+  <line x1="484" y1="256" x2="502" y2="256" stroke="rgba(242,237,228,0.5)" stroke-width="4"/>
+</svg>

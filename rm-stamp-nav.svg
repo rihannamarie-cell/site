@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="64" viewBox="0 0 320 64" role="img">
+  <title>R.Marie — Rihanna Marie nav lockup</title>
+  <desc>Horizontal logo with circular stamp mark and R.Marie wordmark for site navigation</desc>
+
+  <rect width="320" height="64" fill="none"/>
+
+  <!-- Stamp circle mark — simplified for nav size -->
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#1A1612" stroke-width="2"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#1A1612" stroke-width="0.75"/>
+
+  <!-- RM outline in circle -->
+  <text x="32" y="40"
+    font-family="'Barlow Condensed', 'Arial Narrow', sans-serif"
+    font-size="24" font-weight="900"
+    text-anchor="middle"
+    fill="none"
+    stroke="#1A1612"
+    stroke-width="1.2">RM</text>
+
+  <!-- Teal rule inside circle -->
+  <rect x="14" y="41" width="36" height="1.5" fill="#1B4D4A"/>
+
+  <!-- Wordmark -->
+  <text x="74" y="30"
+    font-family="'Barlow Condensed', 'Arial Narrow', sans-serif"
+    font-size="28" font-weight="700"
+    letter-spacing="1"
+    fill="#1A1612">R</text>
+
+  <text x="92" y="30"
+    font-family="'Barlow Condensed', 'Arial Narrow', sans-serif"
+    font-size="28" font-weight="700"
+    fill="#1B4D4A">.</text>
+
+  <text x="99" y="30"
+    font-family="'Barlow Condensed', 'Arial Narrow', sans-serif"
+    font-size="28" font-weight="700"
+    letter-spacing="1"
+    fill="#1A1612">Marie</text>
+
+  <!-- Tagline below -->
+  <text x="74" y="48"
+    font-family="'DM Mono', 'Courier New', monospace"
+    font-size="7.5" letter-spacing="2.5"
+    fill="#1B4D4A">CANNABIS RETAIL · CALIFORNIA</text>
+</svg>
